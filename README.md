@@ -1,4 +1,4 @@
-👋 Hi, I’m Paul Michelsen! I have an M.Sc. in Development Economics from the University of Göttingenics
+👋 Hi, I’m Paul Michelsen! I have an M.Sc. in Development Economics from the University of Göttingen
 
 🌱 Currently learning R (and slowly making friends with Python)  
 
