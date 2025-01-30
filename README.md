@@ -1,6 +1,6 @@
 👋 Hi, I’m Paul Michelsen! I have an M.Sc. in Development Economics from the University of Göttingen
 
-🌱 Currently learning R (and slowly making friends with Python)  
+🌱 Currently learning and working with R (and slowly making friends with Python)  
 
 👀 Interested in migration, climate change, and all things data
 
